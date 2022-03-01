@@ -31,3 +31,6 @@
 [submodule ".\\Part_6\\redux_anecdotes"]
 	path = Part_6/redux_anecdotes
 	url = https://github.com/Sebski123-FSO/redux-anecdotes
+[submodule ".\\Part_7\\routed_anecdotes"]
+	path = .\\Part_7\\routed_anecdotes
+	url = https://github.com/Sebski123-FSO/routed-anecdotes
