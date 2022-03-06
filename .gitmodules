@@ -34,3 +34,12 @@
 [submodule ".\\Part_7\\routed_anecdotes"]
 	path = .\\Part_7\\routed_anecdotes
 	url = https://github.com/Sebski123-FSO/routed-anecdotes
+[submodule ".\\Part_7\\anecdotes_and_hooks"]
+	path = .\\Part_7\\anecdotes_and_hooks
+	url = git@github.com:Sebski123-FSO/anecdotes-and-hooks.git
+[submodule ".\\Part_7\\country_hook"]
+	path = .\\Part_7\\country_hook
+	url = https://github.com/Sebski123-FSO/country-hook
+[submodule ".\\Part_7\\ultimate_hooks"]
+	path = .\\Part_7\\ultimate_hooks
+	url = https://github.com/Sebski123-FSO/ultimate-hooks
